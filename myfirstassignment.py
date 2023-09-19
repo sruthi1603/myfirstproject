@@ -1,7 +1,7 @@
 Name=str(input("Name of a Student: "))
-sub1=int(input("Maths: "))
+sub1=int(input("Advance Maths: "))
 sub2=int(input("Physics: "))
-sub3=int(input("Chemistry: "))
+sub3=int(input("Bio-Chemistry: "))
 sub4=int(input("Biology: "))
 sub5=int(input("English: "))
 Total=sub1+sub2+sub3+sub4+sub5
